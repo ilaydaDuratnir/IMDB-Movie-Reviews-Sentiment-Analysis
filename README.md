@@ -1,12 +1,10 @@
 # IMDB-Movie-Reviews-Sentiment-Analysis
-<img width = "100%" height = "400" src="./img/mnist-dataset.jpeg"></img>
+<img width = "100%" height = "400" src="./img/imdb-logo.png"></img>
 
-<strong>Digit(MNIST) Classification using CNN model.</strong>
+<strong> IMDB Movie Reviews Sentiment Analysis Using RNN Model</strong>
 
 <strong>About Dataset</strong></br>
-The mnist_train.csv file contains the 60,000 training examples and labels. The mnist_test.csv contains 10,000 test examples and labels. Each row consists of 785 values: the first value is the label (a number from 0 to 9) and the remaining 784 values are the pixel values (a number from 0 to 255).
+The labeled training data set consists of 25,000 IMDB movie reviews. There is also an unlabeled test set with 25,000 IMDB movie reviews. 
 
-You can have this dataset from <a href="https://www.kaggle.com/oddrationale/mnist-in-csv">Kaggle</a>.
-
-<strong>Results</strong>
+<strong>Train And Valudation Accuracy and Loss Function</strong>
 <img src="./img/cnn_mnist_results.png"></img>
