@@ -1,7 +1,7 @@
 # IMDB-Movie-Reviews-Sentiment-Analysis
 <img width = "100%" height = "400" src="./img/imdb-logo.png"></img>
 
-<strong> IMDB Movie Reviews Sentiment Analysis Using RNN Model</strong>
+<strong> IMDB Movie Reviews Sentiment Analysis Using RNN Model</strong></br>
 We predict whether the comments made to the movies in Imdb are positive or negative using the rnn model.
 
 <strong>About Dataset</strong></br>
